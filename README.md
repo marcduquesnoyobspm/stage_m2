@@ -6,3 +6,7 @@ Repository for M2 internship codes and data
 * [Celerite](https://celerite.readthedocs.io/en/stable/tutorials/first/)
 
 * [Emcee](https://emcee.readthedocs.io/en/stable/tutorials/quickstart/)
+
+# Useful repositories
+
+* [β Pictoris comet](https://github.com/marcduquesnoyobspm/betaPic_comet.git)
